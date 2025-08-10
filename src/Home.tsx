@@ -82,6 +82,14 @@ const Home = () => {
             imagePosition="right"
           />
         </section>
+        <section>
+          <ImageInfoCard
+            imageSrc="https://media.istockphoto.com/id/1319403503/photo/professional-tiler-making-new-floor.jpg?s=612x612&w=0&k=20&c=6lm76Oteb_5WmvkQuXBPJ6ejxMxR-DFF6apdfHsNfDc="
+            title="Tile Works"
+            description="Our tile specialists provide high-quality installation and finishing for floors, walls, and surfaces using a wide range of materials, including ceramic, porcelain, marble, and more. Whether it's a kitchen, bathroom, or commercial space, we ensure precision alignment, clean finishes, and lasting durability. From modern designs to classic patterns, our team delivers professional results that enhance both the look and value of your space."
+            imagePosition="left"
+          />
+        </section>
         <Link to="/contact" className="text-gray-900 text-bold hover:text-blue-600">
           Contact Us
         </Link>

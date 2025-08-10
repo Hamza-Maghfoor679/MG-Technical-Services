@@ -14,7 +14,7 @@ const ContactUs: React.FC = () => {
           </h2>
           <div className="space-y-4">
             <p className="flex items-center gap-3 bg-indigo-50 border border-indigo-200 rounded-lg px-5 py-3 text-indigo-700 font-medium hover:bg-indigo-100 transition cursor-pointer select-text">
-              +971 9692 92410
+              +971 5692 92410
             </p>
             <p className="flex items-center gap-3 bg-indigo-50 border border-indigo-200 rounded-lg px-5 py-3 text-indigo-700 font-medium hover:bg-indigo-100 transition cursor-pointer select-text">
               +971 5664 10177
